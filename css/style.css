@@ -272,7 +272,7 @@ select::-ms-expand {
   -ms-flex-direction: column;
   flex-direction: column;
   width: 100%;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/header-bg.png");
   background-size: cover;
 }
 
